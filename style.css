@@ -205,8 +205,12 @@ li span {
         font-size: 20px;
     }
 
+    ul {
+        margin-left: -40px;
+    }
     li {
         font-size: 14px;
+        padding: 4px;
     }
 
     li span {
